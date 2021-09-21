@@ -10,6 +10,7 @@ import static java.util.stream.Collectors.toList;
 /**
  * Solution to programming challenge Larry's Array:
  * https://www.hackerrank.com/challenges/larrys-array/problem
+ * By: Christian
  */
 public class LarrysArray {
 
