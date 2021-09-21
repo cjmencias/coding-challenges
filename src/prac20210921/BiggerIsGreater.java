@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 
 /**
- * Solution to programming challenge Bigger is Greather:
+ * Solution to programming challenge Bigger is Greater:
  * https://www.hackerrank.com/challenges/bigger-is-greater/problem
  */
 public class BiggerIsGreater {
