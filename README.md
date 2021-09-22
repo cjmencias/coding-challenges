@@ -6,3 +6,4 @@ Problem      | Solution
 ------------ | -------------
 [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | [src/prac20120919/LarrysArray.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20120919/LarrysArray.java)
 [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [src/prac20210921/BiggerIsGreater.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20210921/BiggerIsGreater.java)
+[Common Child](https://www.hackerrank.com/challenges/common-child/problem) | [src/prac20210922/CommonChild.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20210922/CommonChild.java)
