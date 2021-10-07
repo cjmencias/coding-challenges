@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 public class FindDigits {
 
     public static void main(String[] args) throws IOException {
-        final String INPUT_PATH = "data\\prac20210922p2\\in1.txt";
+        final String INPUT_PATH = "data\\prac20210922p2\\in0.txt";
         final String OUTPUT_PATH = "data\\prac20210922p2\\out.txt";
         BufferedReader bufferedReader = new BufferedReader(new FileReader(INPUT_PATH));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(OUTPUT_PATH));
