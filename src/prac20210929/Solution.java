@@ -3,7 +3,7 @@ package prac20210929;
 import java.io.*;
 
 /**
- * Solution to problem Find Digits
+ * Solution to problem Encryption
  * https://www.hackerrank.com/challenges/encryption/problem
  */
 class Result {
