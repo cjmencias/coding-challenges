@@ -11,3 +11,4 @@ Problem      | Solution
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [src/prac20210925/ExtraLongFactorials.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20210925/ExtraLongFactorials.java)
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [src/prac20210929/Solution.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20210929/Solution.java)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [src/prac20211007/Solution.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20211007/Solution.java)
+[Organizing Containers of Balls])(https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | [src/prac20211007v2/Solution.java](https://github.com/cjmencias/coding-challenges/blob/main/src/prac20211007v2/Solution.java)
